@@ -1,4 +1,8 @@
-### Hi there 👋
+### hello :D
+
+I'm Anusha, I work with all things AI. My Github's pretty sparse, but feel free to contact me for questions!
+
+Contact: anusha.ghosh11 (at) gmail.com
 
 <!--
 **A-Ghosh13/A-Ghosh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
